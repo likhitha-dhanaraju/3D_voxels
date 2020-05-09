@@ -1,6 +1,6 @@
 # 3D_voxels
 
-Keras implementation of the [VoxelGrid](https://arxiv.org/abs/1711.06396) paper
+Keras implementation of the [Voxel](https://arxiv.org/abs/1711.06396) paper
 
 Classification of 3D models of modelnet, by converting the data to its voxel representation. 
 
